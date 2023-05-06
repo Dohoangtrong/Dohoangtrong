@@ -8,4 +8,5 @@
 
 ## Note
  Good day for you <3
-![image](https://i.pximg.net/img-original/img/2023/04/04/16/42/03/106858530_p0.jpg)
+
+<img src="https://i.pximg.net/img-original/img/2023/04/04/16/42/03/106858530_p0.jpg" alt="dev" width="100%"/>
